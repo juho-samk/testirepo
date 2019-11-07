@@ -7,3 +7,5 @@ asdadasdasdad
 Rivi testi1 branchista
 
 vielä uusi rivi
+
+rivi tehty githubissa
